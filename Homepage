@@ -1,0 +1,30 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hoppenings App Support</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 600px;
+      margin: 50px auto;
+      padding: 2rem;
+      background: #fdfdfd;
+    }
+    h1 {
+      color: #222;
+    }
+    a {
+      color: #0077cc;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hoppenings – App Support</h1>
+  <p>Welcome to the support page for Hoppenings, your guide to Colorado Springs breweries and events.</p>
+  <p>If you need help or have any questions, email us at:</p>
+  <p><a href="mailto:hoppeningsco@gmail.com">hoppeningsco@gmail.com</a></p>
+</body>
+</html>
